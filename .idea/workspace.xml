@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3da2f250-7eea-412e-b975-d2d52dc834c5" name="Changes" comment="Avanços Dev Rovi" />
+    <list default="true" id="3da2f250-7eea-412e-b975-d2d52dc834c5" name="Changes" comment="Dev Rovi">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rovi.py" beforeDir="false" afterPath="$PROJECT_DIR$/rovi.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bd08bfe9-1c89-425e-8bd9-0b033c9e3550" />
+        <option name="url" value="git@github.com:Vitor-ext/TCC-HARDWARE.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -83,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655776757592</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Dev Rovi">
+      <created>1655777053689</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655777053689</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,8 +116,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dev Rovi" />
     <MESSAGE value="Avanços Dev Rovi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Avanços Dev Rovi" />
+    <MESSAGE value="Dev Rovi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dev Rovi" />
   </component>
 </project>
